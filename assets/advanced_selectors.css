@@ -32,7 +32,7 @@ input:last-child {
 
 input:last-child:hover{
   background-color: lightgray;
-}
+} 
 
 directions > ol li:nth-child(2n) {
   background-color: lightgray;
